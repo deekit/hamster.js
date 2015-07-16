@@ -1,0 +1,19 @@
+{
+  "name": "hamster.js",
+  "version": "1.0.5",
+  "description": "Hamster.js",
+  "main": "hamster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deekit/hamster.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deekit/hamster.js/issues"
+  },
+  "homepage": "https://github.com/deekit/hamster.js#readme"
+}
